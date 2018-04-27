@@ -82,6 +82,4 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = True
 
 
-#Modify the publishconf.py file to use the github pages url
-SITEURL = 'https://sagarchaitanya.github.io/statichome'
-RELATIVE_URLS = True
+
