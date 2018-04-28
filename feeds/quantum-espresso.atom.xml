@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Hub for Materials Engineering</title><link href="https://sagarchaitanya.github.io/statichome/" rel="alternate"></link><link href="https://sagarchaitanya.github.io/statichome/feeds/all.atom.xml" rel="self"></link><id>https://sagarchaitanya.github.io/statichome/</id><updated>2018-04-28T00:00:00+05:30</updated><entry><title>Current Work</title><link href="https://sagarchaitanya.github.io/statichome/current-work.html" rel="alternate"></link><published>2018-04-28T00:00:00+05:30</published><updated>2018-04-28T00:00:00+05:30</updated><author><name>T. Chaitanya Sagar</name></author><id>tag:sagarchaitanya.github.io,2018-04-28:/statichome/current-work.html</id><summary type="html">&lt;h1&gt;Hierarchical Multiscaling&lt;/h1&gt;
-&lt;p&gt;Conference Abstract: &lt;strong&gt;SICE 2018&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Here is a visual abstract of multiscaling on titanium:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Pelican" src="../images/titanium.png"&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Hierarchical Multiscaling&lt;/h1&gt;
-&lt;p&gt;Conference Abstract: &lt;strong&gt;SICE 2018&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Here is a visual abstract of multiscaling on titanium:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Pelican" src="../images/titanium.png"&gt;&lt;/p&gt;</content><category term="ICME"></category><category term="SICE"></category><category term="abstract"></category></entry><entry><title>QE examples</title><link href="https://sagarchaitanya.github.io/statichome/Readme.html" rel="alternate"></link><published>2018-04-25T00:00:00+05:30</published><updated>2018-04-25T00:00:00+05:30</updated><author><name>T. Chaitanya Sagar</name></author><id>tag:sagarchaitanya.github.io,2018-04-25:/statichome/Readme.html</id><summary type="html"></summary><content type="html">&lt;p&gt;These are instructions on how to run the examples for some PostProc
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Hub for Materials Engineering - quantum espresso</title><link href="https://sagarchaitanya.github.io/statichome/" rel="alternate"></link><link href="https://sagarchaitanya.github.io/statichome/feeds/quantum-espresso.atom.xml" rel="self"></link><id>https://sagarchaitanya.github.io/statichome/</id><updated>2018-04-25T00:00:00+05:30</updated><entry><title>QE examples</title><link href="https://sagarchaitanya.github.io/statichome/Readme.html" rel="alternate"></link><published>2018-04-25T00:00:00+05:30</published><updated>2018-04-25T00:00:00+05:30</updated><author><name>T. Chaitanya Sagar</name></author><id>tag:sagarchaitanya.github.io,2018-04-25:/statichome/Readme.html</id><summary type="html"></summary><content type="html">&lt;p&gt;These are instructions on how to run the examples for some PostProc
 programs included in the Quantum ESPRESSO distribution.
 These examples try to exercise all the programs and features
 of the PP package.
@@ -181,29 +175,4 @@ get its local decomposition over atomic orbitals using projwfc.x.
         "}";
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
-&lt;/script&gt;</content><category term="QE"></category><category term="README"></category><category term="scripts"></category></entry><entry><title>First post</title><link href="https://sagarchaitanya.github.io/statichome/first-post.html" rel="alternate"></link><published>2017-11-30T12:40:00+05:30</published><updated>2017-12-30T12:40:00+05:30</updated><author><name>T. Chaitanya Sagar</name></author><id>tag:sagarchaitanya.github.io,2017-11-30:/statichome/first-post.html</id><summary type="html">&lt;p&gt;This is the first post of a series of demonstration posts.&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is the first post of a series of demonstration posts.&lt;/p&gt;</content><category term="lets see"></category></entry><entry><title>Post with table</title><link href="https://sagarchaitanya.github.io/statichome/fourth-post.html" rel="alternate"></link><published>2017-11-30T12:40:00+05:30</published><updated>2017-11-30T12:40:00+05:30</updated><author><name>T. Chaitanya Sagar</name></author><id>tag:sagarchaitanya.github.io,2017-11-30:/statichome/fourth-post.html</id><summary type="html">&lt;p&gt;This is the fourth post of a series of posts. It will demonstrate tables.&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is the fourth post of a series of posts. It will demonstrate tables.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Column Header&lt;/th&gt;
-&lt;th&gt;Column Header&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Row 1&lt;/td&gt;
-&lt;td&gt;Data 1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Row 2&lt;/td&gt;
-&lt;td&gt;Data 2&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</content><category term="python"></category><category term="pelican"></category><category term="blog"></category><category term="tables"></category></entry><entry><title>Post with video embedded</title><link href="https://sagarchaitanya.github.io/statichome/second-post.html" rel="alternate"></link><published>2017-11-30T12:40:00+05:30</published><updated>2017-11-30T12:40:00+05:30</updated><author><name>T. Chaitanya Sagar</name></author><id>tag:sagarchaitanya.github.io,2017-11-30:/statichome/second-post.html</id><summary type="html">&lt;p&gt;This is the second post of a series of posts. It will show series and an embeded youtube video.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Video on water desalination.&lt;/p&gt;
-&lt;p&gt;&lt;span class="videobox"&gt;
-                &lt;iframe width="640" height="390"
-                    src='https://www.youtube.com/embed/https://www.youtube.com/watch?v=N2y77vEKorI'
-                    frameborder='0' webkitAllowFullScreen mozallowfullscreen
-                    allowFullScreen&gt;
-                &lt;/iframe&gt;
-            &lt;/span&gt;&lt;/p&gt;</content><category term="python"></category><category term="pelican"></category><category term="blog"></category></entry><entry><title>With Jupyter notebook</title><link href="https://sagarchaitanya.github.io/statichome/third-post.html" rel="alternate"></link><published>2017-11-30T12:40:00+05:30</published><updated>2017-11-30T12:40:00+05:30</updated><author><name>Peter D. Kazarinoff</name></author><id>tag:sagarchaitanya.github.io,2017-11-30:/statichome/third-post.html</id><summary type="html">&lt;p&gt;This is the third post of a series of posts. It will show series an jupyter notebook.&lt;/p&gt;</summary><content type="html">&lt;p&gt;This post contains a jupyter notebook.&lt;/p&gt;</content><category term="python"></category><category term="pelican"></category><category term="blog"></category></entry></feed>
+&lt;/script&gt;</content><category term="QE"></category><category term="README"></category><category term="scripts"></category></entry></feed>

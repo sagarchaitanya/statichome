@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Hub for Materials Engineering - example video post</title><link href="https://sagarchaitanya.github.io/statichome/" rel="alternate"></link><link href="https://sagarchaitanya.github.io/statichome/feeds/example-video-post.atom.xml" rel="self"></link><id>https://sagarchaitanya.github.io/statichome/</id><updated>2017-11-30T12:40:00+05:30</updated><entry><title>Post with video embedded</title><link href="https://sagarchaitanya.github.io/statichome/second-post.html" rel="alternate"></link><published>2017-11-30T12:40:00+05:30</published><updated>2017-11-30T12:40:00+05:30</updated><author><name>T. Chaitanya Sagar</name></author><id>tag:sagarchaitanya.github.io,2017-11-30:/statichome/second-post.html</id><summary type="html">&lt;p&gt;This is the second post of a series of posts. It will show series and an embeded youtube video.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Video on water desalination.&lt;/p&gt;
+&lt;p&gt;&lt;span class="videobox"&gt;
+                &lt;iframe width="640" height="390"
+                    src='https://www.youtube.com/embed/https://www.youtube.com/watch?v=N2y77vEKorI'
+                    frameborder='0' webkitAllowFullScreen mozallowfullscreen
+                    allowFullScreen&gt;
+                &lt;/iframe&gt;
+            &lt;/span&gt;&lt;/p&gt;</content><category term="python"></category><category term="pelican"></category><category term="blog"></category></entry></feed>
