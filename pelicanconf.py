@@ -5,7 +5,7 @@ from datetime import date
 
 AUTHOR = 'T. Chaitanya Sagar'
 SITENAME = 'Hub for Materials Engineering'
-SITEURL =' '
+SITEURL ='https://sagarchaitanya.github.io/statichome '
 #SITEURL = 'http://home.iith.ac.in/~chaitanyasagar'
 SITEURL_ABS = SITEURL
 SITESUBTITLE = 'ICME and Multiscale Modeling'
@@ -37,7 +37,7 @@ SOCIAL = (('Facebook', 'https://www.facebook.com/chaitanyasagar.tinku'),('Linked
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 #pelicanconf.py
 

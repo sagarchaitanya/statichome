@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Hub for Materials Engineering - Ph.D. Work</title><link href="https://sagarchaitanya.github.io/statichome/" rel="alternate"></link><link href="https://sagarchaitanya.github.io/statichome/feeds/phd-work.atom.xml" rel="self"></link><id>https://sagarchaitanya.github.io/statichome/</id><updated>2018-04-28T00:00:00+05:30</updated><entry><title>Current Work</title><link href="https://sagarchaitanya.github.io/statichome/current-work.html" rel="alternate"></link><published>2018-04-28T00:00:00+05:30</published><updated>2018-04-28T00:00:00+05:30</updated><author><name>T. Chaitanya Sagar</name></author><id>tag:sagarchaitanya.github.io,2018-04-28:/statichome/current-work.html</id><summary type="html">&lt;h1&gt;Hierarchical Multiscaling&lt;/h1&gt;
+&lt;p&gt;Conference Abstract: &lt;strong&gt;SICE 2018&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here is a visual abstract of multiscaling on titanium:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Pelican" src="../images/titanium.png"&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Hierarchical Multiscaling&lt;/h1&gt;
+&lt;p&gt;Conference Abstract: &lt;strong&gt;SICE 2018&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Here is a visual abstract of multiscaling on titanium:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Pelican" src="../images/titanium.png"&gt;&lt;/p&gt;</content><category term="ICME"></category><category term="SICE"></category><category term="abstract"></category></entry></feed>
