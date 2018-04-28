@@ -24,5 +24,5 @@ DELETE_OUTPUT_DIRECTORY = True
 #GOOGLE_ANALYTICS = ""
 
 #publishconf.py
-SITEURL = 'https://username.github.io/staticsite'
-RELATIVE_URLS = True
+#SITEURL = 'https://username.github.io/staticsite'
+#RELATIVE_URLS = True

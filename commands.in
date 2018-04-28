@@ -1,0 +1,467 @@
+    1  top
+    2  ifconfig
+    3  sudo rm /var/lib/apt//lists/lock 
+    4  sudo rm /var//cache//ap/arch/loc
+    5  sudo rm /var//cache//ap/arch/lock
+    6  sudo rm /var//cache/apt/arch/lock
+    7  sudo rm /var//cache/apt/archives/lock 
+    8  sudo apt-get install drop
+    9  sudo rm /var/lib/apt/lists/lock 
+   10  sudo rm /var/cache/apt/archives/lock 
+   11  sudo rm /var/lib/dpkg/lock 
+   12  sudo apt-get install updates
+   13  sudo apt-get update 
+   14  sudo apt-get install miktex
+   15  sudo apt-get 
+   16  texstudio 
+   17  sudo apt-get install updates miktex gnuplot texstudio 
+   18  sudo apt-get install updates
+   19  sudo apt-get install redshift*
+   20  cd ~/Downloads/
+   21  ls
+   22  tar xjf ./nautilus-dropbox-2.10.0.tar.bz2 
+   23  ls
+   24  cd nautilus-dropbox-2.10.0/
+   25  ls
+   26  ./install-sh 
+   27  ./configure 
+   28  ifconfig
+   29  sudo apt-get update
+   30  sudo apt-get upgrade
+   31  sudo apt-get update
+   32  sudo apt-get upgrade
+   33  sudo apt-get install mendeleydesktop
+   34  cd ~/Downloads/
+   35  ls
+   36  sudo dpkg -i mendeleydesktop_1.17.13-stable_amd64.deb 
+   37  mendeleydesktop 
+   38  ls
+   39  sudo dpkg -i dropbox_2015.10.28_amd64.deb 
+   40  dropbox 
+   41  apt-get install -f
+   42  sudo apt-get install -f
+   43  dropbox 
+   44  dropbox start
+   45  dropbox status
+   46  sudo apt--get update
+   47  sudo apt-get update
+   48  sudo rm /var/lib/apt/lists/lock 
+   49  sudo apt-get update
+   50  sudo rm /var/lib/apt/lists/lock
+   51  sudo rm /var/cache/apt/archives/lock
+   52  sudo rm /var/lib/dpkg/lock
+   53  sudo apt-get update
+   54  gnuplot
+   55  ssh
+   56  ssh -X karthik@192.168.3.51
+   57  ssh -X karthik@192.168.3.57
+   58  top
+   59  clear
+   60  htop
+   61  sudo apt install htop
+   62  update
+   63  apt update
+   64  sudo rm -r /var/lib/apt/lists/lock
+   65  apt update
+   66  sudo rm -r /var/lib/apt/lists/lock
+   67  sudo rm /var/lib/apt/lists/lock
+   68  sudo rm /var/cache/apt/archives/lock 
+   69  sudo rm /var/lib/dpkg/lock 
+   70  apt update
+   71  sudo apt update
+   72  sudo apt upgrade
+   73  sudo rm /var/lib/dpkg/lock 
+   74  sudo rm /var/cache/apt/archives/lock 
+   75  sudo rm /var/lib/apt/lists/lock
+   76  sudo apt upgrade
+   77  htop
+   78  sudo apt install htop
+   79  sudo apt install touchegg
+   80  sudo nano /etc/default//grub 
+   81  sudo update-grub
+   82  sudo apt install geis-tools
+   83  nano .xprofile
+   84  reboot
+   85  pwgui
+   86  ssh
+   87  ssh viswanath@192.168.134.154
+   88  cd /home/chaitanya/Dropbox/stanene-oct16/isolated/bandstructure/2nd
+   89  xmgrace
+   90  sudo apt install grace
+   91  htop
+   92  xmgrace 
+   93  pwgui
+   94  htop
+   95  top
+   96  htop
+   97  sudo apt install htop
+   98  htop
+   99  pw.x
+  100  sudo apt install quantum-espresso
+  101  ls
+  102  htop
+  103  date
+  104  ls
+  105  exit
+  106  pelican
+  107  sudo apt install pelican
+  108  cd Desktop/
+  109  mkdir website
+  110  cd website/
+  111  mkdir terminalworld
+  112  cd terminalworld/
+  113  pelican-quickstart 
+  114  ls
+  115  cd content/
+  116  mkdir personal
+  117  mkdir professional
+  118  cd personal/
+  119  ls
+  120  gedit 
+  121  ls
+  122  cd ../
+  123  ls
+  124  cd ../
+  125  ls
+  126  pelican content
+  127  cd content/
+  128  vi personal/
+  129  cd p
+  130  cd personal/
+  131  ls
+  132  vi tutorial.md 
+  133  cd ../
+  134  pelican content/ 
+  135  cd output/
+  136  python -m pelican.server
+  137  ls
+  138  cd ../
+  139  ls
+  140  cd content/
+  141  ls
+  142  cd professional/
+  143  ls
+  144  mkdir test.md
+  145  gedit 
+  146  gedit test.md/
+  147  rm -r test.md/
+  148  gedit test.md
+  149  ls
+  150  cd ../../
+  151  pelican content
+  152  cd output/
+  153  python -m pelican.server
+  154  cd ../
+  155  make html
+  156  make serve
+  157  cd /home/chaitanya/build
+  158  ls
+  159  chmod +x Anaconda3-5.1.0-Linux-x86_64.sh 
+  160  ./Anaconda3-5.1.0-Linux-x86_64.sh 
+  161  ls
+  162  cd
+  163  conda --version
+  164  firefox &
+  165  conda --version
+  166  ls
+  167  cd
+  168  ls
+  169  conda create -n staticsite
+  170  source activate staticsite
+  171  activate staticsite
+  172  source activate staticsite
+  173  conda install pip
+  174  conda install git
+  175  pip install pelican
+  176  pip install --upgrade pip
+  177  pip install markdown
+  178  pip install fabric3
+  179  pip install bs4
+  180  pip install ghp-import
+  181  cd Documents/staticsite/
+  182  git init
+  183  git pull origin master
+  184  git remote add origin https://github.com/sagarchaitanya/static.git
+  185  git pull origin master
+  186  ls
+  187  make html
+  188  ls
+  189  ls pelican-themes/
+  190  ls
+  191  cd pelican-themes/
+  192  ls
+  193  cd ../
+  194  ls
+  195  cd ../
+  196  ls
+  197  cd statichome/
+  198  ls
+  199  git init
+  200  git remote add origin https://github.com/sagarchaitanya/statichome.git
+  201  git pull origin master
+  202  ls
+  203  git add .
+  204  git commit -m "message"
+  205  git add .
+  206  git config -glonbal me14resch11007@iith.ac.in"
+  207  git add .
+  208  git commit -m "message"
+  209  git config --global user.email"me14resch11007@iith.ac.in"
+  210  git commit -m "message"
+  211  git config --global user.name "sagarchaitanya"
+  212  git commit -m "message"
+  213  git config user.name "sagarchaitanya"
+  214  git config user.email"me14resch11007@iith.ac.in"
+  215  git commit -m "message"
+  216  git push origin master
+  217  ls
+  218  conda info envs
+  219  conda info --envs
+  220  pip freeze
+  221  pelican-quickstart 
+  222  make html
+  223  cd content/
+  224  ls
+  225  cp ../../staticsite/content/sample.md .
+  226  ls
+  227  cd ../
+  228  make html
+  229  make serve
+  230  git add .
+  231  git commit -m "created pelican static site"
+  232  git push origin master
+  233  git submodule add https://github.com/getpelican/pelican-themes.git
+  234  git submodule init
+  235  git submodule update --init --recursive
+  236  git submodule add https://github.com/getpelican/pelican-plugins.git
+  237  git submodule init
+  238  git submodule update --init --recursive
+  239  make html
+  240  git submodule update --init --recursive
+  241  git submodule init
+  242  git submodule add https://github.com/getpelican/pelican-plugins.git
+  243  make html
+  244  ls
+  245  make html
+  246  make serve
+  247  cd pelican-plugins/
+  248  pwd
+  249  cd ../
+  250  ls
+  251  make html
+  252  make serve
+  253  git add .
+  254  git commit -m "added pelican_bootstrap3 theme"
+  255  git push origin master
+  256  conda install jupyter
+  257  pip freeze
+  258  pwd
+  259  ls
+  260  mkdir content/code
+  261  cd content/code/
+  262  ls
+  263  jupyter notebook
+  264  make html
+  265  cd ../
+  266  make html
+  267  cd content/
+  268  ls
+  269  cd posts/
+  270  ls
+  271  gedit third_post.md 
+  272  ls ../code/sample_notebook.ipynb 
+  273  cd ../
+  274  make html
+  275  ls
+  276  cd content/
+  277  cd code/
+  278  ls
+  279  rm -r untitled.txt 
+  280  cd ../
+  281  make html
+  282  cd content/
+  283  rm -r code/
+  284  cd ../
+  285  make html
+  286  make serve
+  287  git add .
+  288  git push origin master
+  289  git pull origin master
+  290  cd content/
+  291  mkdir extra && cd extra
+  292  touch new.css
+  293  mv new.css custom.css
+  294  cd ../
+  295  ls
+  296  make html
+  297  make serve
+  298  add .
+  299  ls
+  300  git add .
+  301  git push origin master
+  302  git log
+  303  git pull origin master
+  304  cd content/
+  305  ls
+  306  mkdir pages
+  307  cd pages/
+  308  touch about.md
+  309  nano about.md 
+  310  nano book.md
+  311  gedit
+  312  cd ../
+  313  \
+  314  ls
+  315  cd ../
+  316  ls
+  317  make html
+  318  make serve
+  319  ls
+  320  git add .
+  321  git commit -m "added about and book pages"
+  322  git config --global user.name "sagarchaitanya"
+  323  git commit -m "added about and book pages"
+  324  git push origin master
+  325  git pull origin master
+  326  pelican content -s publishconf.py
+  327  git add .
+  328  git commit -m "first published version"
+  329  pip install ghp-import
+  330  ghp-import output
+  331  git push origin gh-pages
+  332  git add .
+  333  git commit -m "published"
+  334  git push origin master
+  335  ghp-import output
+  336  git push -f origin gh-pages
+  337  cd Documents/
+  338  mkdir staticsite
+  339  cd staticsite/
+  340  ls
+  341  cd /home/chaitanya/Documents/statichome ; env "PYTHONIOENCODING=UTF-8" "PYTHONUNBUFFERED=1" /home/chaitanya/anaconda3/bin/python /home/chaitanya/.vscode/extensions/ms-python.python-2018.3.1/pythonFiles/PythonTools/visualstudio_py_launcher.py /home/chaitanya/Documents/statichome 34305 34806ad9-833a-4524-8cd6-18ca4aa74f14 RedirectOutput,RedirectOutput /home/chaitanya/Documents/statichome/pelicanconf.py 
+  342  apt-get install git
+  343  sudo apt-get install git
+  344  source activate staticsite
+  345  cd Documents/
+  346  ls
+  347  cd static
+  348  ls
+  349  cd statichome/
+  350  ls
+  351  git pull origin master
+  352  pelican content -s publishconf.py
+  353  git add .
+  354  git commit -m "second published version"
+  355  git push origin master
+  356  ghp-import output
+  357  git push origin gh-pages
+  358  ls
+  359  git add .
+  360  git push origin gh-pages
+  361  pelican content -s publishconf.py
+  362  git add .
+  363  make html
+  364  make serve
+  365  make html
+  366  make serve
+  367  make html
+  368  make serve
+  369  make html
+  370  make serve
+  371  make html
+  372  make serve
+  373  pip install pelican-youtube
+  374  make html
+  375  make serve
+  376  make html
+  377  make serve
+  378  make html
+  379  make serve
+  380  make html
+  381  make serve
+  382  make html
+  383  make serve
+  384  make html
+  385  make serve
+  386  make html
+  387  make serve
+  388  make html
+  389  make serve
+  390  make html
+  391  make serve
+  392  make html
+  393  make serve
+  394  make html
+  395  make serve
+  396  make html
+  397  make serve
+  398  make html
+  399  make serve
+  400  make html
+  401  make serve
+  402  make html
+  403  make serve
+  404  make html
+  405  make serve
+  406  make html
+  407  make publish 
+  408  make serve
+  409  make html
+  410  make publish 
+  411  make serve
+  412  make publish.github
+  413  mkvirtualenv blog pip install -r requirements.txt
+  414  make html
+  415  make publish 
+  416  make serve
+  417  ls
+  418  ./develop_server.sh start
+  419  make serve
+  420  make html
+  421  make serve
+  422  make html
+  423  make serve
+  424  lsof -i | grep 8000
+  425  make html
+  426  clear
+  427  lsof -i | grep 8000
+  428  kill 27906
+  429  lsof -i | grep 8000
+  430  cd /home/chaitanya/Documents/statichome/pelican-themes/html5-dopetrope/templates
+  431  ls
+  432  ./develop_server.sh stop
+  433  cd Documents/statichome/[B
+  434  ./develop_server.sh stop
+  435  ./develop_server.sh 
+  436  ./develop_server.sh stop 8000
+  437  ./develop_server.sh stop [8000]
+  438  lsof -wni tcp:[8000]
+  439  ./develop_server.sh stop
+  440  ls
+  441  top
+  442  ./develop_server.sh stop
+  443  ls
+  444  cd output/
+  445  ls
+  446  ./develop_server.sh start
+  447  cd ../
+  448  ./develop_server.sh start
+  449  PID
+  450  netstat -nlp|grep 9000
+  451  netstat -nlp|grep 8000
+  452  sudo netstat -nlp|grep 8000
+  453  sudo ss -lptn 
+  454  lsof -i:8000 -t
+  455  cd Documents/
+  456  cd statichome/
+  457  cd
+  458  conda statichome
+  459  ls
+  460  source activate staticsite
+  461  cd Documents/static
+  462  cd Documents/statichome/
+  463  ls
+  464  ./develop_server.sh stop
+  465  make devserver
+  466  ./develop_server.sh stop
+  467  history >>commands.in

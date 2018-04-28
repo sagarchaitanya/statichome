@@ -1,4 +1,4 @@
-Title: Third Post - Part 3
+Title: With Jupyter notebook
 Date: 2017-11-30 12:40
 Modified: 2017-11-30 12:40
 Status: published
